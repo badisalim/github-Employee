@@ -1,3 +1,3 @@
 # github-dzb9rp
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-dzb9rp-jc2vcr)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-dzb9rp)
