@@ -1,0 +1,53 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Stefan",
+      "email": "stefan@gmail.com",
+      "phone": "+436607883559",
+      "image": "Badi1.png"
+    },
+    {
+      "id": 2,
+      "name": "Dessy",
+      "email": "dessy@gmail.com",
+      "phone": "+436607883559",
+      "image": "/uploader.uploadAll()"
+    },
+    {
+      "id": 3,
+      "name": "Nicol",
+      "email": "colni@gmail.com",
+      "phone": "+436607883559",
+      "image": "Badi3.jpg"
+    },
+    {
+      "name": "Badi Raslan",
+      "email": "badisalim@gmail.com",
+      "phone": "+436607883559",
+      "image": "Badi2.jpg",
+      "id": 4
+    },
+    {
+      "name": "Saleem",
+      "email": "salim@gmail.com",
+      "phone": "+436607883559",
+      "image": "'https://www.encodedna.com/images/theme/jQuery.png'",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Badi Raslan",
+      "email": "badisalim@gmail.com",
+      "phone": "+436607883559",
+      "image": "Badi1.png"
+    },
+    {
+      "id": 7,
+      "image": "Badi2.jpg",
+      "name": "Badi Raslan",
+      "email": "badisalim@gmail.com",
+      "phone": "+436607883559"
+    }
+  ]
+}

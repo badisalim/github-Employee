@@ -1,0 +1,34 @@
+<div class="container custom-container">
+  <div class="col-md-12">
+
+    <h3 class="mb-3 text-center">Update Employee</h3>
+
+    <div class="form-group">
+      <input type="text" [(ngModel)]="employeeData.name" class="form-control" placeholder="Name">
+    </div>
+
+    <div class="form-group">
+      <input type="text" [(ngModel)]="employeeData.email" class="form-control" placeholder="Email">
+    </div>
+
+    <div class="form-group">
+      <input type="text" [(ngModel)]="employeeData.phone" class="form-control" placeholder="Phone">
+    </div>
+
+    <div class="form-group">
+      <input type="text" [(ngModel)]="employeeData.image" class="form-control" placeholder="Image">
+    </div>
+
+    <div class="form-group">
+      <button class="btn btn-success btn-lg btn-block" (click)="updateEmployee()">Update Employee</button>
+    </div>
+
+
+  </div>
+</div>
+
+
+<!-- <div class="form-group">
+        <img *ngIf="employeeData.image" src="assets/{{employeeData.image}}" alt="{{employeeData.name}}" width="300px" height="450px"/>
+        <img *ngIf="!employee.image" src="assets/not-available.png" width="130px" height="100px"/>
+      </div> -->

@@ -1,0 +1,13 @@
+img{
+  width: 25%;
+  border-radius: 10%;
+  margin-bottom: 25px;
+
+}
+side-images2 img {
+
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 10%;
+}
